@@ -1,5 +1,5 @@
 # Youtube-DL-GUI
-A youtube-dl GUI with support for windows and unix.
+A youtube-dl GUI with support for windows and *nix.
 Basic Installation:
 Requires ffmpeg and youtube-dl of course.
 put the program in the same folder as ffmpeg.
